@@ -1,2 +1,3 @@
-# c-_questions
-C++ practice questions
+# cpp questions
+
+This repository contains the practice questions of cpp programming language.
